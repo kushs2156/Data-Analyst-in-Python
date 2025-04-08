@@ -1,0 +1,7 @@
+- Place each scenario into the appropriate bucket depending on what approach should be taken to deal with the outlier(s).
+
+| **Remove outlier(s)**                                                                                                                                 | **Leave outliers in dataset**                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| A temperature sensor has a<br>recording of 100 degrees Celsius,<br>but the sensor only functions<br>correctly at temperatures of up to<br>80 degrees. | A basketball player averages 35<br>points per game when the average<br>across the league is only 10 points<br>per game. |
+| A car speed is recorded as<br>5,000km/h.                                                                                                              | Countries have an average total area<br>of 667,143 sq. km, but one country<br>is recorded as 1,637,687 sq. km.          |
+| A participant in a study has an age<br>of minus 35 years old.                                                                                         | The heights of different animals are<br>recorded and one is more than 1.5<br>times the IQR plus the 75th<br>percentile. |

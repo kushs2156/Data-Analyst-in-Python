@@ -1,0 +1,7 @@
+Well done! You've made it to the end of the course.
+## Course recap
+To recap, in Chapter 1, we learned the workflow for testing proportions against a hypothesised value. We calculated the observed statistic, and a z-score, then transformed the z-score to get a p-value. We also learned about false negative and false positive errors. In Chapter 2, we learned how to test for differences in means between two groups using t-tests, and how to extend this to more than two groups using ANOVA and pairwise t-tests. In Chapter 3, we returned to proportion responses, and learned how to test for differences in proportions between two groups using proportion tests. We then extended it to more than two groups with chi-square independence tests, and returned to the one sample case with chi-square goodness of fit tests. In Chapter 4, we learned about the assumptions made by parametric hypothesis tests, and saw how non-parametric tests can be used when those assumptions aren't met.
+## More courses
+Hypothesis testing is part of a branch of statistics known as inference. DataCamp has more courses that delve deeper into inference. The techniques used in this course are an example of frequentist statistics. A rival paradigm is known as Bayesian statistics, and naturally, DataCamp has a course that teaches it. This course began with an example of A/B testing, which is a common use case for hypothesis testing. You can learn more about A/B testing in this course.
+## Congratulations!
+Congratulations for completing the course! I wish you the best of luck on your data journey!

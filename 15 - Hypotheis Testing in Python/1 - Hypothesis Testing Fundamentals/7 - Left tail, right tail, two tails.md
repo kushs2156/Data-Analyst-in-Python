@@ -1,0 +1,6 @@
+Determine the appropriate type of hypothesis test for answering these questions.
+
+| Two tails                                                                                                                  | Left tail                                                                                                           | Right tail                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Should we expect<br>Slack and Zoom to<br>have dissimilar<br>mean numbers of <br>employees over<br>the last three<br>years? | Is there evidence<br>to conclude that<br>Belgian workers<br>tend to have<br>lower salaries than<br>Italian workers? | Do hamburgers<br>have more calories <br>than hot dogs,<br>on average? |
+| Is there a<br>difference between<br>the voting preferences<br>of 40-year-olds and<br>80-year-olds?                         | Are grapes lower<br>in popularity than<br>raisins, on <br>average?                                                  | Do cats tend to<br>live longer than<br>dogs?                          |

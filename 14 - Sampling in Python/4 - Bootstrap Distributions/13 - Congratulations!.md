@@ -1,0 +1,9 @@
+Congratulations on completing the course! We've covered a lot of ground!
+## Recap
+In Chapter 1, you learned about the basic principles of sampling, the problems caused by selection bias, and what pseudo-random numbers are. In Chapter 2, you learned how to perform the four most common methods of sampling: simple random sampling, systematic sampling, stratified sampling, and cluster sampling. In Chapter 3, you learned how sample size affects estimates of population parameters, how to use repeated sampling to generate a sampling distribution, the difference between approximate and exact sampling distributions, and you encountered the central limit theorem. Finally, in Chapter 4, you learned how to perform bootstrapping to estimate population parameters from a single sample, what the standard error of a statistic is, and two ways to calculate confidence intervals.
+## The most important things
+There are two results from the last chapter that are really important for hypothesis testing, and it's important to make sure you understand them. Firstly, the standard deviation of a bootstrap distribution statistic is a good approximation for the standard error of the sampling distribution. Secondly, you calculated confidence intervals for statistics using both the quantile method and the standard error method, and they gave very similar answers. That means that the normal distribution tends to be a good approximation for bootstrap distributions.
+## What's next?
+Sampling is tremendously important in many areas of data science. It is used heavily in experimental design, such as designing A/B tests. It's a cornerstone of hypothesis testing and inferential statistics. Finally, understanding sampling is crucial to understanding concepts in probability and Bayesian statistics.
+## Happy learning!
+Congratulations again! Happy learning!

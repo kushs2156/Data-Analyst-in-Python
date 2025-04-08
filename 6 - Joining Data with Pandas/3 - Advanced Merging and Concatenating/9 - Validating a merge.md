@@ -1,0 +1,2 @@
+You have been given 2 tables, `artists`, and `albums`. Merge them using `artists.merge(albums, on='artid').head()`, adjusting the `validate` argument to determine which statement is **_False_**.
+- You can use `'many_to_one'` without an error, since there is a duplicate key in the left table.

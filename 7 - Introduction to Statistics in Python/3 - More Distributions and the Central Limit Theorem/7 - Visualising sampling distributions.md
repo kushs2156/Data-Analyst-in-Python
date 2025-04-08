@@ -1,0 +1,2 @@
+On the right, try creating _sampling distributions_ of different summary statistics from samples of different distributions. Which distribution does the central limit theorem **not** apply to?
+- None of the above

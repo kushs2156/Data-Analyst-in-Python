@@ -1,0 +1,7 @@
+Congratulations on completing the course, you've covered a lot!
+
+You started off by learning how to inspect and validate data, before performing aggregation and calculating summary statistics! You saw how to check for missing values. You then identified strategies to deal with it, including dropping missing values, and imputation! You discovered how to create categories from strings, use lambda functions to conditionally calculate summary statistics based on categories and add values into the original DataFrame, and deal with outliers!
+
+You progressed to examining relationships, including patterns over time, correlation between variables, and interpreting distributions! In the final chapter you learned the benefits of cross-tabulation, generated new features using `pd.cut()`, and saw the impact of data snooping! You finished by identifying the limits of EDA and the next step of the data science workflow, hypothesis testing.
+
+Now you understand EDA, you may wish to explore some courses that build on the concepts in this course, such as the steps involved in hypothesis testing, or supervised learning, which is a form of machine learning! We hope you've enjoyed the course and feel confident in performing exploratory data analysis going forward!

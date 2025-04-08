@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "7ed98989eccdfb14",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb715b1a419edc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccba26322eb9e0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/4 - Calculating p-values from t-statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Calculating p-values from t-statistics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff53cb4eb7a04003",
+    "type": "split",
+    "children": [
+      {
+        "id": "74345773245217a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55348fe9d32563c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b1c15f71188e39f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1544d94e08b60c64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "c31b2c7fa7847c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f70db31aadfd16d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe9e3a4a8127d47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Introduction to Python/2 - Python Lists/7 - Slicing and dicing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7 - Slicing and dicing"
+            }
+          },
+          {
+            "id": "932da2e7b0e96b10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Introduction to Python/2 - Python Lists/7 - Slicing and dicing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7 - Slicing and dicing"
+            }
+          },
+          {
+            "id": "447495b5c380496c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ab3aaee848a3aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Introduction to Python/2 - Python Lists/7 - Slicing and dicing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7 - Slicing and dicing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ccba26322eb9e0e2",
+  "lastOpenFiles": [
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/2 - Hypothesis testing workflow.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/1 - Performing t-tests.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/7 - Non-parametric ANOVA and unpaired t-tests.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/9 - Is pairing needed.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/8 - Paired t-tests.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/7 - From t to p.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/4 - Calculating p-values from t-statistics.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/6 - The t-distribution.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/5 - Why is t needed.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/3 - Two sample mean test statistic.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/14 - Conducting an ANOVA test.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/15 - Pairwise t-tests.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/13 - Visualising many categories.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/12 - ANOVA tests.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/11 - Using ttest().md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests/10 - Visualising the difference.md",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and ANOVA Tests",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/9 - Kruskal-Wallis.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/8 - Wilcoxon-Mann-Whitney.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/6 - Wilcoxon signed-rank test.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/5 - Which parametric test.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/4 - Non-parametric tests.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/3 - Testing sample size.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/2 - Common assumptions of hypothesis tests.md",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests/1 - Assumptions in hypothesis testing.md",
+    "15 - Hypotheis Testing in Python/3 - Proportion Tests/11 - Chi-square goodness of fit tests.md",
+    "15 - Hypotheis Testing in Python/3 - Proportion Tests/10 - Performing a chi-square test.md",
+    "Images/Pasted image 20250318201605.png",
+    "Images/Pasted image 20250318201502.png",
+    "Images/Pasted image 20250318183131.png",
+    "certificate.pdf",
+    "certificate.pdf.crdownload",
+    "15 - Hypotheis Testing in Python/certificate.pdf",
+    "15 - Hypotheis Testing in Python/certificate.pdf.crdownload",
+    "Images/download 135.svg",
+    "Images/download 134.svg",
+    "Images/download 133.svg",
+    "Images/download 132.svg",
+    "Images/download 131.svg",
+    "Images/Pasted image 20250317130227.png",
+    "12 - Exploratory Data Analysis in Python/certificate.pdf",
+    "15 - Hypotheis Testing in Python/4 - Non-Parametric Tests",
+    "15 - Hypotheis Testing in Python/3 - Proportion Tests",
+    "15 - Hypotheis Testing in Python/2 - Two-Sample and  ANOVA Tests",
+    "15 - Hypotheis Testing in Python/1 - Hypothesis Testing Fundamentals",
+    "Images/download 130.svg",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
